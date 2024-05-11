@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 May 2024 15:15:11 at https://ignitedmindsit.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ignitedmindsit.com/ -O1 "E:\INTERNSHIP\PARCTICE\dFGW\ignitedmindsit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:15:12	Warning: 	Note: due to https://ignitedmindsit.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, https://ignitedmindsit.com/wp-content/uploads/wpo-plugins-tables-list.json (see in the options to disable this)
+15:15:35	Error: 	"Method Not Allowed" (405) at link https://ignitedmindsit.com/xmlrpc.php (from https://ignitedmindsit.com/)
+15:16:19	Error: 	"Not Found" (404) at link https://ignitedmindsit.com/wp-content/themes/go/images/arrow-down-solid.svg (from https://ignitedmindsit.com/wp-content/themes/go/dist/css/style-shared.min.css?ver=1.4.4)
+15:16:19	Error: 	"Not Found" (404) at link https://ignitedmindsit.com/wp-content/themes/go/dist/shared/images/arrow-down-solid.svg (from https://ignitedmindsit.com/wp-content/themes/go/dist/css/style-shared.min.css?ver=1.4.4)
+15:16:19	Error: 	"Not Found" (404) at link https://ignitedmindsit.com/wp-content/themes/go/dist/shared/images/error-icon.svg (from https://ignitedmindsit.com/wp-content/themes/go/dist/css/style-shared.min.css?ver=1.4.4)
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=67
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=67 to https://ignitedmindsit.com/about-us/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=69
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=69 to https://ignitedmindsit.com/courses/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=81
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=81 to https://ignitedmindsit.com/oracle/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=85
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=85 to https://ignitedmindsit.com/python/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=79
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=79 to https://ignitedmindsit.com/awsdeops/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=83
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=83 to https://ignitedmindsit.com/reactjs/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=2355
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=2355 to https://ignitedmindsit.com/snowflake-online-training/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=72
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=72 to https://ignitedmindsit.com/placements/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=74
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=74 to https://ignitedmindsit.com/registration/
+15:16:20	Warning: 	Moved Permanently for https://ignitedmindsit.com/?p=2329
+15:16:20	Warning: 	File has moved from https://ignitedmindsit.com/?p=2329 to https://ignitedmindsit.com/privacy-policy/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 10 seconds : 260 links scanned, 245 files written (23730343 bytes overall) [22825874 bytes received at 326083 bytes/sec], 1406174 bytes transferred using HTTP compression in 12 files, ratio 17%, 32.5 requests per connection
+(4 errors, 21 warnings, 0 messages)
